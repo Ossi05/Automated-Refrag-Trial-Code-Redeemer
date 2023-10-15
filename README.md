@@ -1,4 +1,9 @@
-# Automated-Refrag-Trial-Code-Redeemer
+# The project is still in progress.
+# TO-DO
+Stop trying out trial codes when working code is found.
+
+
+# Automated Refrag Trial Code Redeemer
 Automatically try multiple Refrag Trial codes without typing them manually
 
 # How to use
