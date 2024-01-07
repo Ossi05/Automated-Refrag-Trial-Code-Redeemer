@@ -1,4 +1,4 @@
-# The project is under development.
+
 # TO-DO
 Stop trying out trial codes when working code is found.
 
