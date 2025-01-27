@@ -6,14 +6,13 @@ Automatically try multiple Refrag Trial codes without typing them manually
 
 # How to use
 
-1. Copy trial codes to the Codes.txt
-2. Install Selenium `pip install selenium`
-3. Type your email and password to Main.py file
+1. Install Selenium `pip install selenium`
+2. Type your email and password to Main.py file
 
    ![image](https://github.com/Ossi05/Automated-Refrag-Trial-Code-Redeemer/assets/77546709/db98ec92-9e6e-4327-8978-0250a070e8bc)
 
-4. Add your trial codes to Codes.txt
-5. Run Main.py
+3. Add your trial codes to Codes.txt
+4. Run Main.py
  ```
 python Main.py
 ```
